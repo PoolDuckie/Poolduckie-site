@@ -1,0 +1,4 @@
+### MSDS English ####
+
+RewriteEngine On
+RewriteRule ^en-MSDS$ /html/en-MSDS.html [L]
