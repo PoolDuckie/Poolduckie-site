@@ -1,4 +1,4 @@
 ### MSDS English ####
 
 RewriteEngine On
-RewriteRule ^en-MSDS$ /html/en-MSDS.html [L]
+RewriteRule ^en-MSDS$ /php/en-MSDS.php [L]

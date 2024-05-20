@@ -1,0 +1,73 @@
+<?php
+
+?>
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MSDS-english</title>
+</head>
+<body>
+    <header>
+        <h1>Material Safety Data Sheet</h1>
+        <p><b><i>Updated May 19th 2024</i></b></p>
+    </header>
+    <main>
+        <ul>
+            <li><a href="english/409® Stone & Steel Cleaner.pdf">409® Stone & Steel Cleaner.pdf</a></li>
+            <li><a href="english/Acid Demand Reagent(R-0005).pdf">Acid Demand Reagent(R-0005).pdf</a></li>
+            <li><a href="english/AQUA BALANCE CALHYPO SHOCK.pdf">AQUA BALANCE CALHYPO SHOCK.pdf</a></li>
+            <li><a href="english/AQUA BALANCE CHLORINE FREE OXIDIZER.pdf">AQUA BALANCE CHLORINE FREE OXIDIZER.pdf</a></li>
+            <li><a href="english/AQUA BALANCE CONQUEST STAIN REMOVER.pdf">AQUA BALANCE CONQUEST STAIN REMOVER.pdf</a></li>
+            <li><a href="english/AQUA BALANCE DECHLOR REDUCING AGENT.pdf">AQUA BALANCE DECHLOR REDUCING AGENT.pdf</a></li>
+            <li><a href="english/AQUA BALANCE pH PLUS.pdf">AQUA BALANCE pH PLUS.pdf</a></li>
+            <li><a href="english/AQUA BALANCE SPF-3050.pdf">AQUA BALANCE SPF-3050.pdf</a></li>
+            <li><a href="english/AQUA BALANCE TINYL FOAM.pdf">AQUA BALANCE TINYL FOAM.pdf</a></li>
+            <li><a href="english/AQUA BALANCE TOTAL ALKALINITY.pdf">AQUA BALANCE TOTAL ALKALINITY.pdf</a></li>
+            <li><a href="english/Arm & Hammer™ Powder Laundry Detergent.pdf">Arm & Hammer Powder Laundry Detergent.pdf</a></li>
+            <li><a href="english/Base Demand Reagent(R-0006).pdf">Base Demand Reagent(R-0006).pdf</a></li>
+            <li><a href="english/Blue Ribbon Liquid Bleach.pdf">Blue Ribbon Liquid Bleach Household 5.25%.pdf</a></li>
+            <li><a href="english/Calcium Buffer(R-0010).pdf">Calcium Buffer(R-0010).pdf</a></li>
+            <li><a href="english/Calcium Indicator Liquid (R-0011L).pdf">Calcium Indicator Liquid (R-0011L).pdf</a></li>
+            <li><a href="english/Chitosan Clarifier.pdf">Chitosan Clarifier.pdf</a></li>
+            <li><a href="english/CLR® CALCIUM, LIME & RUST REMOVER.pdf">CLR® CALCIUM, LIME & RUST REMOVER.pdf</a></li>
+            <li><a href="english/Cyanuric Acid Reagent(R-0013).pdf">Cyanuric Acid Reagent(R-0013).pdf</a></li>
+            <li><a href="english/DPD Powder(R-0870).pdf">DPD Powder(R-0870).pdf</a></li>
+            <li><a href="english/DPD Reagent1(R-0001).pdf">DPD Reagent #1(R-0001).pdf</a></li>
+            <li><a href="english/DPD Reagent3(R-0003).pdf">DPD Reagent #3(R-0003).pdf</a></li>
+            <li><a href="english/E-Z Clor Big Tabs.pdf">E-Z Clor Big Tabs.pdf</a></li>
+            <li><a href="english/FAS-DPD Titrating Reagent (R-0871).pdf">FAS-DPD Titrating Reagent (R-0871).pdf</a></li>
+            <li><a href="english/FOAM HAND SOAP.pdf">FOAM HAND SOAP.pdf</a></li>
+            <li><a href="english/Hardness Reagent(R-0012).pdf">Hardness Reagent(R-0012).pdf</a></li>
+            <li><a href="english/HASA BLEACH12.5.pdf">HASA BLEACH 12.5%.pdf</a></li>
+            <li><a href="english/HASA MURIATIC ACID.pdf">HASA MURIATIC ACID.pdf</a></li>
+            <li><a href="english/HUSKY 891 ARENA DISINFECTANT.pdf">HUSKY 891 ARENA DISINFECTANT.pdf</a></li>
+            <li><a href="english/Leslies Swimming Pool Supplies 3 Jumbo Tabs.pdf">Leslie's Swimming Pool Supplies 3" Jumbo Tabs.pdf</a></li>
+            <li><a href="english/Leslies Swimming Pool Supplies Conditioner.pdf">Leslie's Swimming Pool Supplies Conditioner.pdf</a></li>
+            <li><a href="english/Leslies Swimming Pool Supplies Hardness Plus.pdf">Leslie's Swimming Pool Supplies Hardness Plus.pdf</a></li>
+            <li><a href="english/Multi-Surface Floor Cleaner(OdoBan).pdf">Multi-Surface Floor Cleaner(OdoBan).pdf</a></li>
+            <li><a href="english/ORTHO BUGCLEAR INSECT KILLER FOR LAWNS & LANDSCAPES CONCENTRATE.pdf">ORTHO BUGCLEAR INSECT KILLER FOR LAWNS & LANDSCAPES CONCENTRATE.pdf</a></li>
+            <li><a href="english/OxiClean™ Laundry Stain Remover.pdf">OxiClean™ Laundry Stain Remover.pdf</a></li>
+            <li><a href="english/OxiClean™ Odor Blasters Versatile Stain & Odor Remover .PDF">OxiClean™ Odor Blasters Versatile Stain & Odor Remover .PDF</a></li>
+            <li><a href="english/pH Indicator Solution(R-0004).pdf">pH Indicator Solution(R-0004).pdf</a></li>
+            <li><a href="english/Pine-Sol Original Pine.pdf">Pine-Sol Original Pine.pdf</a></li>
+            <li><a href="english/RAPID MULTI SURFACE DISINFECTANT CLEANER.pdf">RAPID MULTI SURFACE DISINFECTANT CLEANER.pdf</a></li>
+            <li><a href="english/SeaKlear 90Day Algae Prevention & Remover for Pools.pdf">SeaKlear: 90-Day Algae Prevention & Remover for Pools.pdf</a></li>
+            <li><a href="english/Simple Green® Carpet Cleaner.pdf">Simple Green® Carpet Cleaner.pdf</a></li>
+            <li><a href="english/SMARTPOWER SINK & SURFACE CLEANER SANITIZER.pdf">SMARTPOWER SINK & SURFACE CLEANER SANITIZER.pdf</a></li>
+            <li><a href="english/Sulfuric Acid .12N(R-0009).pdf">Sulfuric Acid .12N(R-0009).pdf</a></li>
+            <li><a href="english/Thiosulfate.pdf">Thiosulfate N:10(R-0007).pdf</a></li>
+            <li><a href="english/Total Alkalinity Indicator(R-0008).pdf">Total Alkalinity Indicator(R-0008).pdf</a></li>
+            <li><a href="english/Trade Grade Phosphate Remover.pdf">Trade Grade Phosphate Remover.pdf</a></li>
+            <li><a href="english/ZEP CONCENTRATED DRIVEWAY & CONCRETE CLEANER & DEGREASER .pdf">ZEP CONCENTRATED DRIVEWAY & CONCRETE CLEANER & DEGREASER .pdf</a></li>
+            <li><a href="english/ZEP INSTANT HAND SANITIZER GEL .pdf">ZEP INSTANT HAND SANITIZER GEL .pdf</a></li>
+            <li><a href="english/ZEP PROVISIONS POT & PAN PLUS.pdf">ZEP PROVISIONS POT & PAN PLUS.pdf</a></li>
+            <li><a href="english/ZEP Selig Master Mechanic NC.pdf">ZEP Selig Master Mechanic NC.pdf</a></li>
+        </ul>
+    </main>
+    
+    <footer></footer>
+</body>
+</html>
