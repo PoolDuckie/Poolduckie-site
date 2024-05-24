@@ -21,6 +21,7 @@
                 <li><a href="../index.php">HOME</a></li>
                 <li><a href="../php/Seville.php">Seville Pool Hours</a></li>
                 <li><a href="../php/en-MSDS.php">MSDS</a></li>
+                <li><a href="../php/test.php">Pool Test</a><li>
             </ul>
         </nav>
         </div>
