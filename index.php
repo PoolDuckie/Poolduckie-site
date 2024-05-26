@@ -4,6 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>PoolDuckie's Swimming Pools</title>
+    <link rel="icon" href="image/favicon.ico" type="image/icon">
     <link rel="stylesheet" href="css/main.css">
 </head>
 <body>
@@ -12,10 +13,10 @@
         <img src="image/logo.svg" alt="">
         <nav class="header-main-nav">
             <ul>
-                <li><a href="index.php">HOME</a></li>
-                <li><a href="php/Seville.php">Seville Pool Hours</a></li>
-                <li><a href="php/en-MSDS.php">MSDS</a></li>
-                <li><a href="php/test.php">Pool Test</a><li>
+                <li><a href="https://poolduckie.com">HOME</a></li>
+                <li><a href="https://poolduckie.com/seville">Seville Pool Hours</a></li>
+                <li><a href="https://poolduckie.com/en-MSDS">MSDS</a></li>
+                <li><a href="https://poolduckie.com/pooltest">Pool Test</a><li>
             </ul>
         </nav>
         </div>
