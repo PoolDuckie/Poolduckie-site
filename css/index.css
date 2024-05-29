@@ -1,0 +1,23 @@
+/* CSS Document */
+/*Hero*/
+
+/*about*/
+
+/*pool section*/
+.poolinfo {
+	height: 90vh;
+}
+
+.fourpools {
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: space-evenly;
+	
+}
+
+.fourpools img{
+	width: 400px
+}
+
+
+
